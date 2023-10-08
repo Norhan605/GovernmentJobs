@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Government_Jobs", "Government_Jobs\Government_Jobs.csproj", "{86E8CB4C-A49F-4E60-ACF1-5FDEF2D1E20B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86E8CB4C-A49F-4E60-ACF1-5FDEF2D1E20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E8CB4C-A49F-4E60-ACF1-5FDEF2D1E20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E8CB4C-A49F-4E60-ACF1-5FDEF2D1E20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E8CB4C-A49F-4E60-ACF1-5FDEF2D1E20B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {283A9797-FF53-459E-96A2-499477E13E93}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://epm-server:8080/tfs/ewebbers
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Government_Jobs\\Government_Jobs.csproj
+		SccProjectName1 = Government_Jobs
+		SccLocalPath1 = Government_Jobs
+	EndGlobalSection
+EndGlobal
